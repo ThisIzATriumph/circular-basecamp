@@ -8,6 +8,7 @@ import { Breadcrumbs, Header, Search, useNotionContext } from 'react-notion-x'
 
 import { isSearchEnabled, navigationLinks, navigationStyle } from '@/lib/config'
 import { useDarkMode } from '@/lib/use-dark-mode'
+import Link from 'next/link'
 
 import styles from './styles.module.css'
 
