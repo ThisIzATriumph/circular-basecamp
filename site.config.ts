@@ -61,6 +61,18 @@ export default siteConfig({
       title: 'Viewpoints',
       pageId: '946949a287f84c8d8aacedb4577a8951'
     },
+    // {
+    //   title: 'Totems',
+    //   pageId: 'be3f3a150fba43559ac73a9bd4a95f1f'
+    // },
+    // {
+    //   title: 'Atelier',
+    //   pageId: '2624f545d1ac4f2d9c5652c59ed67303'
+    // },
+    {
+      title: 'Library',
+      pageId: '31bf22cf184c4273a0508b3fa4e3e06f'
+    },
     {
       title: 'About',
       pageId: 'be25e82069684c909a722c1000f85b9a'
